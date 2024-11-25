@@ -1,5 +1,5 @@
 /*UNIVERSIDAD DE LAS AMÉRICAS
- * Estudiante Encargado: Josué Chiriboga
+ * Estudiante Encargado: Josué Chiriboga, Jean Carlos Gómez
  * Asignatura: Programacion II
  * Actividad: Gestión de Reservas en un Hotel
  * Fecha: 25/11/2024*/
